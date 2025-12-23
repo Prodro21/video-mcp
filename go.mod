@@ -1,6 +1,6 @@
 module github.com/Prodro21/video-mcp
 
-go 1.23.2
+go 1.25.5
 
 require github.com/mark3labs/mcp-go v0.8.0
 
